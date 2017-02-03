@@ -3,13 +3,13 @@
     align-items:center;
     justify-content:center;
     flex-direction:column;
-    height: 40rem;
+    height: 90vh;
     overflow:hidden;
     @include tablet{
-    height: 40rem;
+    height: 90vh;
     flex-direction:row;
     @include desktop{
-    height: 40rem;
+    height: 90vh;
     justify-content:flex-start;
         }
     }
